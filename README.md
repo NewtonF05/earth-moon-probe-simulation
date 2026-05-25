@@ -31,7 +31,7 @@ The simulation produces:
 - **Option 1**: closed elliptical orbit of the Moon around Earth over ~1 lunar month
 - **Option 2**: combined trajectory plot showing the Moon's path alongside the probe's coupled orbit — the probe orbits the Moon, while the Moon orbits Earth, producing a characteristic spirograph-like trace in the Earth-centred frame
 
-[Add a screenshot of the three-body trajectory here — it's the more interesting visual.]
+![Three-body Earth-Moon-Probe trajectory showing the probe's epicyclic motion (red dashed) as it orbits the Moon, which itself orbits Earth](figures/earth_moon_probe_trajectory.png)
 
 ## How to Run
 
